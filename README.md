@@ -10,3 +10,5 @@ et un 3Ã¨ pour se remettre dans le bain
 et là ajour en passant par l'éditeur Vim
 
 et maintenant on modifie directement dans Github
+
+et aussi depuis ma machine locale
