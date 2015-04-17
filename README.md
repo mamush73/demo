@@ -11,4 +11,4 @@ et là ajour en passant par l'éditeur Vim
 
 et maintenant on modifie directement dans Github
 
-et aussi depuis ma machine locale
+et aussi depuis ma machine locale et " c'est cool"
