@@ -3,8 +3,10 @@ une demo de Git
 
 lol
 
-un deuxième commit pour être sûr d'avoir bien compris
+un deuxiÃ¨me commit pour Ãªtre sÃ»r d'avoir bien compris
 
-et un 3è pour se remettre dans le bain
+et un 3Ã¨ pour se remettre dans le bain
 
-et l� ajour en passant par l'�diteur Vim
+et là ajour en passant par l'éditeur Vim
+
+et maintenant on modifie directement dans Github
